@@ -1,7 +1,7 @@
 # Time-Tracking-Reminder
 Requirement:
 
-This project is used to create an APP(both in smartphone and PC) used to remind me to calculate the working hours of the month
+This project is used to create an APP( Android only) used to remind me to calculate the working hours of the month
 in APP before the deadline of wage settlement, of course the calculation will be done automatically in APP; And it can record the 
 hours per day you engaged in each project, which can help the manager to evaluate the expense of the project as well as personal
 bonus.
